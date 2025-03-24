@@ -19,6 +19,7 @@
         <button type="submit" class="btn btn-success">Submit</button>
     </form>
 
+    rohit
     <img src="/storage/uploads/0353d67dd60e28b0ecc7b2eb495280ce.jpg"></img>
 <script>
      $.ajaxSetup({
